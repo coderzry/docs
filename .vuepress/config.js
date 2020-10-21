@@ -1,4 +1,5 @@
 module.exports = {
+  "base":"/docs/",
   "title": "coderzry的小站",
   "description": "a blog",
   "dest": "public",
